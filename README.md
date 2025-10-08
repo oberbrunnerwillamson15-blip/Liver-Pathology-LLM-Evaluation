@@ -54,11 +54,3 @@ Once configured, run the script from your terminal:
 python 07_evaluation_llamacpp_linux_v1.1.py
 ```
 The script will automatically start and stop the `llama.cpp` server for each model and save all results to the `results/` directory.
-
-## Citation
-
-If you use this code in your research, please cite our paper:
-
-```
-[Placeholder for full citation once the paper is published]
-```
